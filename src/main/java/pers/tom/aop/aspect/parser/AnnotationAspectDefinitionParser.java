@@ -1,6 +1,6 @@
 package pers.tom.aop.aspect.parser;
 
-import com.tom.aop.annotation.*;
+
 import pers.tom.aop.annotation.*;
 import pers.tom.aop.aspect.advice.Advice;
 import pers.tom.aop.aspect.AspectDefinition;
