@@ -12,8 +12,7 @@ public interface AfterAdvice extends Advice{
     /**
      * 执行后置通知
      * @param joinPoint 当前通知织入点
-     * @param result 返回结果
      * @throws Throwable throwable
      */
-    void after(JoinPoint joinPoint, Object result) throws Throwable;
+    void after(JoinPoint joinPoint) throws Throwable;
 }

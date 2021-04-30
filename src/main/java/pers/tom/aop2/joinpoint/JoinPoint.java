@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 
 /**
  * @author lijia
- * @description 通知织入点
+ * @description 通知加入点
  * @date 2021-04-26 14:08
  */
 public interface JoinPoint {
